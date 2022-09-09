@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -32,8 +32,8 @@ function App() {
         <br />
         <em
           ><strong id="degrees">19°</strong
-          ><a href="#" id="celsius-link" class="active">°C </a> |
-          <a href="#" id="fahrenheit-link">°F </a></em
+          ><a href="https://www.google.com/search?q=weather+google&oq=weather+google&aqs=chrome..69i57j0i22i30l9.11421j1j7&sourceid=chrome&ie=UTF-8" id="celsius-link" class="active">°C </a> |
+          <a href="https://www.google.com/search?q=weather+google&oq=weather+google&aqs=chrome..69i57j0i22i30l9.11421j1j7&sourceid=chrome&ie=UTF-8" id="fahrenheit-link">°F </a></em
         >
         <img src="imgs/sunnyIcon.png" alt="Clear" id="mainIcon" width="50%" />
         <div class="boxInfo">
@@ -68,7 +68,7 @@ function App() {
       </div>
 
       <small>
-        <a href="https://github.com/idaliaFelsmann/MinimalWappG" target="_blank"
+        <a href="https://github.com/idaliaFelsmann/MinimalWappG" 
           >Open-source code</a
         >
         by Idalia F.
